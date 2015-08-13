@@ -40,10 +40,10 @@
 #include "stm32l0xx_hal.h"
 #include "stm32l0538_discovery_epd.h"
 #include "stm32l0538_discovery.h"
-#include "font20epd.c"
-#include "font16epd.c"
-#include "font12epd.c"
-#include "font8epd.c"
+#include "font20epd.h"
+#include "font16epd.h"
+#include "font12epd.h"
+#include "font8epd.h"
 
 /** @addtogroup BSP
   * @{
